@@ -32,14 +32,14 @@ Employee Tracker is a command-line application that enables business owners to m
    - Create a new database in PostgreSQL.
    - Run the provided `schema.sql` and `seeds.sql` files to set up tables and seed initial data.
 
-## Usage
+## Usage:
 1. Start the application by running:
    ```
    node index.js
    ```
 2. Follow the on-screen prompts to interact with the database.
 
-## Database Schema
+## Database Schema:
 The database consists of three tables:
 
 ### department Table
