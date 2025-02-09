@@ -72,8 +72,7 @@ The database consists of three tables:
 - **Interactive prompts** using Inquirer for an intuitive command-line experience.
 
 ## Walkthrough Video
-A walkthrough video demonstrating the application's functionality can be found at:
-[Walkthrough Video Link](#)
+A walkthrough video demonstrating the application's functionality can be found at: coming soon..
 
 ## License:
 This project is licensed under the MIT License.
