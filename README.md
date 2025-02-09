@@ -2,7 +2,7 @@
 
 A command-line application from scratch to manage a company's employee database, using Node.js, Inquirer, and PostgreSQL.
 
-## Description
+## Description:
 Developers frequently need to create interfaces that allow non-developers to easily view and interact with information stored in databases. These interfaces are called Content Management Systems (CMS).
 
 Employee Tracker is a command-line application that enables business owners to manage their company's employee database efficiently. This application is built using **Node.js**, **Inquirer**, and **PostgreSQL** to provide an easy way to **view, add, and update** employee information.
